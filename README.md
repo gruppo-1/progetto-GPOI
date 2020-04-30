@@ -1,4 +1,4 @@
-# progetto interdisciplinare
+# Progetto Interdisciplinare
 Membri:
 1) Checchia Filippo - Team Leader
 2) Di Raimondo Gabriele
