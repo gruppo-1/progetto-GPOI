@@ -1,4 +1,9 @@
 # progetto-GPOI
-Checchia Filippo - Team Leader
-Di Raimondo Gabriele
-Poma Giuliano
+Membri:
+1) Checchia Filippo - Team Leader
+2) Di Raimondo Gabriele
+3) Poma Giuliano
+
+Descrizione:
+abcde
+
